@@ -1,0 +1,237 @@
+[
+    {
+        "name": "MaterialDesign.Brush.Background",
+        "themeValues": {
+            "light": "#FFFFFFFF",
+            "dark": "#FF000000"
+        },
+        "alternateKeys": [
+            "MaterialDesign.Brush.Card.Background"
+        ],
+        "obsoleteKeys": [
+            "MaterialDesignBackground",
+            "MaterialDesignCardBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.Foreground",
+        "themeValues": {
+            "light": "#DD000000",
+            "dark": "#DDFFFFFF"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignBody"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.LightForeground",
+        "themeValues": {
+            "light": "#89000000",
+            "dark": "#89FFFFFF"
+        },
+        "alternateKeys": [
+            "MaterialDesign.Brush.CheckBox.Off",
+            "MaterialDesign.Brush.TextBox.Border"
+        ],
+        "obsoleteKeys": [
+            "MaterialDesignBodyLight",
+            "MaterialDesignCheckBoxOff",
+            "MaterialDesignTextBoxBorder"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.ValidationError",
+        "themeValues": {
+            "light": "#FFB00020",
+            "dark": "#FFCF6679"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignValidationErrorBrush"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.Button.FlatClick",
+        "themeValues": {
+            "light": "#FFDEDEDE",
+            "dark": "#19757575"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignFlatButtonClick"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.Button.Ripple",
+        "themeValues": {
+            "light": "#FFB6B6B6",
+            "dark": "#FFB6B6B6"
+        },
+        "alternateKeys": [
+            "MaterialDesign.Brush.Button.FlatRipple",
+            "MaterialDesign.Brush.SnackBar.Ripple"
+        ],
+        "obsoleteKeys": [
+            "MaterialDesignFlatButtonRipple"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.CheckBox.Disabled",
+        "themeValues": {
+            "light": "#FFBDBDBD",
+            "dark": "#FF647076"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignCheckBoxDisabled"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.Chip.Background",
+        "themeValues": {
+            "light": "#12000000",
+            "dark": "#FF2E3C43"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignChipBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.Header.Foreground",
+        "themeValues": {
+            "light": "#BC000000",
+            "dark": "#BCFFFFFF"
+        },
+        "alternateKeys": [
+            "MaterialDesign.Brush.DataGrid.ColumnHeaderForeground",
+            "MaterialDesign.Brush.TextBox.OutlineBorder"
+        ],
+        "obsoleteKeys": [
+            "MaterialDesignColumnHeader",
+            "MaterialDesignTextAreaBorder"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.DataGrid.RowHoverBackground",
+        "themeValues": {
+            "light": "#0A000000",
+            "dark": "#14FFFFFF"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignDataGridRowHoverBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.SnackBar.Background",
+        "themeValues": {
+            "light": "#FF323232",
+            "dark": "#FFCDCDCD"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignSnackbarBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.SnackBar.MouseOver",
+        "themeValues": {
+            "light": "#FF464642",
+            "dark": "#FFB9B9BD"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignSnackbarMouseOver"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.TextBox.OutlineInactiveBorder",
+        "themeValues": {
+            "light": "#29000000",
+            "dark": "#29FFFFFF"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignTextAreaInactiveBorder"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.TextBox.FilledBackground",
+        "themeValues": {
+            "light": "#0F000000",
+            "dark": "#1AFFFFFF"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignTextFieldBoxBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.TextBox.DisabledBackground",
+        "themeValues": {
+            "light": "#08000000",
+            "dark": "#0DFFFFFF"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignTextFieldBoxDisabledBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.TextBox.HoverBackground",
+        "themeValues": {
+            "light": "#14000000",
+            "dark": "#1FFFFFFF"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignTextFieldBoxHoverBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.ToolBar.Item.Background",
+        "themeValues": {
+            "light": "#FFE0E0E0",
+            "dark": "#FFE0E0E0"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignToolBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.ToolBar.Background",
+        "themeValues": {
+            "light": "#FFF5F5F5",
+            "dark": "#FF212121"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignToolBarBackground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.ToolBar.Item.Foreground",
+        "themeValues": {
+            "light": "#FF616161",
+            "dark": "#FF616161"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignToolForeground"
+        ]
+    },
+    {
+        "name": "MaterialDesign.Brush.ToolTip.Background",
+        "themeValues": {
+            "light": "#FF757575",
+            "dark": "#FFEEEEEE"
+        },
+        "alternateKeys": [],
+        "obsoleteKeys": [
+            "MaterialDesignToolTipBackground"
+        ]
+    }
+]

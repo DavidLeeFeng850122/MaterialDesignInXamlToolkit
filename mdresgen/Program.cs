@@ -66,6 +66,8 @@ public class Program
             await IconThing.RunAsync();
         if (args.Contains("icon-diff"))
             await IconDiff.RunAsync();
+        if (args.Contains("brushes"))
+            await Brushes.DoStuffAsync();
         
         Console.WriteLine();
         Console.WriteLine();
